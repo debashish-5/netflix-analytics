@@ -1,5 +1,4 @@
-# skillytixs-task-1
-
+# Netflix
 A data science project focused on analyzing Netflix content using Python and Jupyter Notebooks.
 
 ## Features
